@@ -1,0 +1,5 @@
+{
+  "name": "Live DocBook Editor",
+  "description": "An interactive DocBook XML editor with a live synchronized preview pane. Load a folder of XML files, edit the code with syntax highlighting, and see the rendered output instantly. Clicking in one pane highlights the corresponding position in the other.",
+  "requestFramePermissions": []
+}
